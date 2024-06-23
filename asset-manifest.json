@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gemini/static/css/main.0338ecd4.css",
+    "main.js": "/Gemini/static/js/main.29730962.js",
+    "static/js/453.d379bf65.chunk.js": "/Gemini/static/js/453.d379bf65.chunk.js",
+    "index.html": "/Gemini/index.html",
+    "main.0338ecd4.css.map": "/Gemini/static/css/main.0338ecd4.css.map",
+    "main.29730962.js.map": "/Gemini/static/js/main.29730962.js.map",
+    "453.d379bf65.chunk.js.map": "/Gemini/static/js/453.d379bf65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0338ecd4.css",
+    "static/js/main.29730962.js"
+  ]
+}
